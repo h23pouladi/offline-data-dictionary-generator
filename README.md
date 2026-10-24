@@ -229,7 +229,8 @@ The application does not require an external database or transmit data to a remo
 ```text
 .
 ├── main.py
-├── requirements.txt
+├── requirements.tx
+├── LICENSE
 ├── README.md
 ├── .gitignore
 ├── docs/
