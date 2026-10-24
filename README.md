@@ -39,9 +39,7 @@ To generate a data dictionary from your own Excel or CSV file, follow the instal
 
 ## Installation
 
-### 1. Clone the repository
-
-Replace `YOUR_USERNAME` and `YOUR_REPOSITORY` with your GitHub username and repository name.
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/h23pouladi/offline-data-dictionary-generator.git
