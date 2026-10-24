@@ -754,7 +754,7 @@ def main():
         result = generate_html(df, output_path)
 
         print("=" * 50)
-        print("HTML file successfult generated.")
+        print("HTML file successfully generated.")
         print(f"Input file: {input_path.resolve()}")
         print(f"Output file: {result}")
         print(f"Number of records: {len(df)}")
