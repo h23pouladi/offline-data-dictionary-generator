@@ -232,8 +232,9 @@ The application does not require an external database or transmit data to a remo
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-├── form_dictionary.xlsx
-└── form_dictionary.html
+└── examples/
+    ├── form_dictionary.xlsx
+    └── form_dictionary.html
 ```
 
 The input dataset and generated HTML file are runtime files and do not necessarily need to be committed to the repository.
