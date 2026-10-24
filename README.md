@@ -232,9 +232,12 @@ The application does not require an external database or transmit data to a remo
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
+├── docs/
+│   └── index.html             # Live demo / GitHub Pages
 └── examples/
-    ├── form_dictionary.xlsx
-    └── form_dictionary.html
+    ├── form_dictionary.xlsx   # Sample input data
+    └── form_dictionary.html   # Sample generated output
+
 ```
 
 The input dataset and generated HTML file are runtime files and do not necessarily need to be committed to the repository.
