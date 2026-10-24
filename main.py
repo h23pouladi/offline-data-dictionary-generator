@@ -284,7 +284,7 @@ tbody tr:hover {
 <p>Search and data exploration work entirely offline.</p>
 
 <p>
-    َAll Records:
+   All Records:
     <strong id="total">۰</strong>
     |
     Results:
