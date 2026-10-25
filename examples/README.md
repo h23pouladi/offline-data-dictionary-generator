@@ -11,7 +11,7 @@ This folder contains a practical, real-world example generated using this tool: 
 ## 🚀 How to Use This Example
 1. Download or clone this repository.
 2. Navigate to the `example/` folder.
-3. Double-click the generated HTML file (e.g., `sjr_search.html`) to open it instantly in any modern web browser (Chrome, Firefox, Edge, etc.)—**no internet connection or Excel required!**
+3. Double-click the generated HTML file (e.g., `scimagojr2025.html`) to open it instantly in any modern web browser (Chrome, Firefox, Edge, etc.)—**no internet connection or Excel required!**
 
 ---
 *Developed as a utility project to make large dataset exploration seamless for researchers.*
